@@ -1,2 +1,2 @@
 # arbitrage-betting-scraper
-Scrape sports betting sites for potential arbitrage opportunities
+Uses selenium to scrape sports betting sites for potential arbitrage opportunities
